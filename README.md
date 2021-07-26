@@ -1,2 +1,2 @@
-# matlab_code
+# demo_code
 same demo
